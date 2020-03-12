@@ -67,6 +67,5 @@ class BlockManager {
 		BlockFactory::registerBlock(new Rail(), true);
 		BlockFactory::registerBlock(new Cauldron(), true);
 		//BlockFactory::registerBlock(new Jukebox(), true);
-        BlockFactory::registerBlock(new Sponge(), true);
 	}
 }
